@@ -13,6 +13,19 @@ Este projeto contém duas versões de uma calculadora simples, uma em Shell Scri
 
 ---
 
+#### Python
+O código em calculadora.py:
+
+Solicita dois números ao usuário.
+
+Pergunta qual operação deseja fazer: soma, subtração, multiplicação ou divisão.
+
+Realiza o cálculo com base na operação escolhida.
+
+Verifica se a divisão é por zero (para evitar erro).
+
+Usa try/except para tratar entradas inválidas.
+
 ## Como executar
 
 ### Requisitos
@@ -32,17 +45,6 @@ bash calculadora.sh
 
 ---
 
-Python
-O código em calculadora.py:
 
-Solicita dois números ao usuário.
-
-Pergunta qual operação deseja fazer: soma, subtração, multiplicação ou divisão.
-
-Realiza o cálculo com base na operação escolhida.
-
-Verifica se a divisão é por zero (para evitar erro).
-
-Usa try/except para tratar entradas inválidas.
 
 Feito por linrs-data — Projeto de prática no Webminal!
