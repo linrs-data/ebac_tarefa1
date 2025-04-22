@@ -27,9 +27,10 @@ Este projeto contém duas versões de uma calculadora simples, uma em Shell Scri
 chmod 744 calculadora.sh
 ./calculadora.sh
 
-### Se der ruim, tente:
+``` Se der ruim, tente:
 bash calculadora.sh
 
+---
 
 Python
 O código em calculadora.py:
